@@ -1,0 +1,482 @@
+2022-09-20T13:53:51.207Z : TopicsNotExistError: The topic(s) dlq do not exist
+2022-09-20T13:57:00.743Z : {"message":"Hello","error":"Not in JSON format","offset":0,"topic":"main","partition":0}
+2022-09-20T13:57:40.970Z : {"message":"Hello","error":"Repition of messages","offset":1,"topic":"main","partition":0}
+2022-09-20T13:57:40.971Z : {"message":"Hello","error":"Not in JSON format","offset":1,"topic":"main","partition":0}
+2022-09-20T14:16:45.815Z : BrokerNotAvailableError: Broker not available (socket closed)
+2022-09-20T14:17:05.649Z : NestedError: refreshBrokerMetadata failed
+2022-09-20T14:17:05.677Z : {"message":"Broker not available (socket closed)"}
+2022-09-20T14:25:22.695Z : {"message":"Hello","error":"Not in JSON format","offset":2,"topic":"main","partition":0}
+2022-09-20T14:26:41.894Z : {"message":"Hello","error":"Repition of messages","offset":3,"topic":"main","partition":0}
+2022-09-20T14:26:41.896Z : {"message":"Hello","error":"Not in JSON format","offset":3,"topic":"main","partition":0}
+2022-09-20T14:30:12.210Z : {"message":"Hello","error":"Not in JSON format","offset":0,"topic":"main","partition":0}
+2022-09-20T14:30:12.221Z : {"message":"Hello","error":"Repition of messages","offset":1,"topic":"main","partition":0}
+2022-09-20T14:30:12.222Z : {"message":"Hello","error":"Not in JSON format","offset":1,"topic":"main","partition":0}
+2022-09-20T14:30:12.226Z : {"message":"Hello","error":"Repition of messages","offset":2,"topic":"main","partition":0}
+2022-09-20T14:30:12.228Z : {"message":"Hello","error":"Not in JSON format","offset":2,"topic":"main","partition":0}
+2022-09-20T14:30:12.232Z : {"message":"Hello","error":"Repition of messages","offset":3,"topic":"main","partition":0}
+2022-09-20T14:30:12.233Z : {"message":"Hello","error":"Not in JSON format","offset":3,"topic":"main","partition":0}
+2022-09-20T14:40:23.674Z : BrokerNotAvailableError: Broker not available (socket closed)
+2022-09-20T14:40:41.314Z : {"message":"Hello","error":"Not in JSON format","offset":4,"topic":"main","partition":0}
+2022-09-20T14:42:13.486Z : LeaderNotAvailable
+2022-09-20T14:59:28.989Z : {"message":"Hello","error":"Not in JSON format","offset":5,"topic":"main","partition":0}
+2022-09-20T14:59:35.694Z : {"message":"Hello","error":"Repition of messages","offset":6,"topic":"main","partition":0}
+2022-09-20T14:59:35.696Z : {"message":"Hello","error":"Not in JSON format","offset":6,"topic":"main","partition":0}
+2022-09-20T15:01:14.213Z : {"message":"Hello","error":"Not in JSON format","offset":7,"topic":"main","partition":0}
+2022-09-20T15:01:15.275Z : {"message":"Hello","error":"Not in JSON format","offset":9,"topic":"main","partition":0}
+2022-09-20T15:02:24.298Z : {"message":"Hello","error":"Not in JSON format","offset":11,"topic":"main","partition":0}
+2022-09-20T15:02:24.361Z : {"message":"[object Object]","error":"Not in JSON format","offset":12,"topic":"main","partition":0}
+2022-09-20T15:02:24.390Z : {"message":"[object Object]","error":"Repition of messages","offset":13,"topic":"main","partition":0}
+2022-09-20T15:02:24.391Z : {"message":"[object Object]","error":"Not in JSON format","offset":13,"topic":"main","partition":0}
+2022-09-20T15:02:24.416Z : {"message":"[object Object]","error":"Repition of messages","offset":14,"topic":"main","partition":0}
+2022-09-20T15:02:24.418Z : {"message":"[object Object]","error":"Not in JSON format","offset":14,"topic":"main","partition":0}
+2022-09-20T15:02:24.474Z : {"message":"[object Object]","error":"Repition of messages","offset":15,"topic":"main","partition":0}
+2022-09-20T15:02:24.495Z : {"message":"[object Object]","error":"Not in JSON format","offset":15,"topic":"main","partition":0}
+2022-09-20T15:02:24.585Z : {"message":"[object Object]","error":"Repition of messages","offset":16,"topic":"main","partition":0}
+2022-09-20T15:02:24.589Z : {"message":"[object Object]","error":"Not in JSON format","offset":16,"topic":"main","partition":0}
+2022-09-20T15:02:24.698Z : {"message":"[object Object]","error":"Repition of messages","offset":17,"topic":"main","partition":0}
+2022-09-20T15:02:24.699Z : {"message":"[object Object]","error":"Not in JSON format","offset":17,"topic":"main","partition":0}
+2022-09-20T15:02:24.794Z : {"message":"[object Object]","error":"Repition of messages","offset":18,"topic":"main","partition":0}
+2022-09-20T15:02:24.796Z : {"message":"[object Object]","error":"Not in JSON format","offset":18,"topic":"main","partition":0}
+2022-09-20T15:02:24.942Z : {"message":"[object Object]","error":"Repition of messages","offset":19,"topic":"main","partition":0}
+2022-09-20T15:02:24.945Z : {"message":"[object Object]","error":"Not in JSON format","offset":19,"topic":"main","partition":0}
+2022-09-20T15:02:24.951Z : {"message":"[object Object]","error":"Repition of messages","offset":20,"topic":"main","partition":0}
+2022-09-20T15:02:24.952Z : {"message":"[object Object]","error":"Not in JSON format","offset":20,"topic":"main","partition":0}
+2022-09-20T15:02:24.963Z : {"message":"[object Object]","error":"Repition of messages","offset":21,"topic":"main","partition":0}
+2022-09-20T15:02:24.964Z : {"message":"[object Object]","error":"Not in JSON format","offset":21,"topic":"main","partition":0}
+2022-09-20T15:02:24.978Z : {"message":"[object Object]","error":"Repition of messages","offset":22,"topic":"main","partition":0}
+2022-09-20T15:02:24.984Z : {"message":"[object Object]","error":"Not in JSON format","offset":22,"topic":"main","partition":0}
+2022-09-20T15:02:24.990Z : {"message":"[object Object]","error":"Repition of messages","offset":23,"topic":"main","partition":0}
+2022-09-20T15:02:24.992Z : {"message":"[object Object]","error":"Not in JSON format","offset":23,"topic":"main","partition":0}
+2022-09-20T15:02:24.997Z : {"message":"[object Object]","error":"Repition of messages","offset":24,"topic":"main","partition":0}
+2022-09-20T15:02:24.998Z : {"message":"[object Object]","error":"Not in JSON format","offset":24,"topic":"main","partition":0}
+2022-09-20T15:02:25.192Z : {"message":"[object Object]","error":"Repition of messages","offset":25,"topic":"main","partition":0}
+2022-09-20T15:02:25.196Z : {"message":"[object Object]","error":"Not in JSON format","offset":25,"topic":"main","partition":0}
+2022-09-20T15:02:25.208Z : {"message":"[object Object]","error":"Repition of messages","offset":26,"topic":"main","partition":0}
+2022-09-20T15:02:25.210Z : {"message":"[object Object]","error":"Not in JSON format","offset":26,"topic":"main","partition":0}
+2022-09-20T15:02:25.228Z : {"message":"[object Object]","error":"Repition of messages","offset":27,"topic":"main","partition":0}
+2022-09-20T15:02:25.231Z : {"message":"[object Object]","error":"Not in JSON format","offset":27,"topic":"main","partition":0}
+2022-09-20T15:02:25.240Z : {"message":"[object Object]","error":"Repition of messages","offset":28,"topic":"main","partition":0}
+2022-09-20T15:02:25.241Z : {"message":"[object Object]","error":"Not in JSON format","offset":28,"topic":"main","partition":0}
+2022-09-20T15:02:25.249Z : {"message":"[object Object]","error":"Repition of messages","offset":29,"topic":"main","partition":0}
+2022-09-20T15:02:25.251Z : {"message":"[object Object]","error":"Not in JSON format","offset":29,"topic":"main","partition":0}
+2022-09-20T15:02:25.262Z : {"message":"[object Object]","error":"Repition of messages","offset":30,"topic":"main","partition":0}
+2022-09-20T15:02:25.264Z : {"message":"[object Object]","error":"Not in JSON format","offset":30,"topic":"main","partition":0}
+2022-09-20T15:02:25.277Z : {"message":"[object Object]","error":"Repition of messages","offset":31,"topic":"main","partition":0}
+2022-09-20T15:02:25.278Z : {"message":"[object Object]","error":"Not in JSON format","offset":31,"topic":"main","partition":0}
+2022-09-20T15:02:25.285Z : {"message":"[object Object]","error":"Repition of messages","offset":32,"topic":"main","partition":0}
+2022-09-20T15:02:25.287Z : {"message":"[object Object]","error":"Not in JSON format","offset":32,"topic":"main","partition":0}
+2022-09-20T15:02:25.294Z : {"message":"[object Object]","error":"Repition of messages","offset":33,"topic":"main","partition":0}
+2022-09-20T15:02:25.296Z : {"message":"[object Object]","error":"Not in JSON format","offset":33,"topic":"main","partition":0}
+2022-09-20T15:02:25.426Z : {"message":"[object Object]","error":"Repition of messages","offset":34,"topic":"main","partition":0}
+2022-09-20T15:02:25.428Z : {"message":"[object Object]","error":"Not in JSON format","offset":34,"topic":"main","partition":0}
+2022-09-20T15:02:25.437Z : {"message":"[object Object]","error":"Repition of messages","offset":35,"topic":"main","partition":0}
+2022-09-20T15:02:25.444Z : {"message":"[object Object]","error":"Not in JSON format","offset":35,"topic":"main","partition":0}
+2022-09-20T15:02:25.455Z : {"message":"[object Object]","error":"Repition of messages","offset":36,"topic":"main","partition":0}
+2022-09-20T15:02:25.458Z : {"message":"[object Object]","error":"Not in JSON format","offset":36,"topic":"main","partition":0}
+2022-09-20T15:02:25.473Z : {"message":"[object Object]","error":"Repition of messages","offset":37,"topic":"main","partition":0}
+2022-09-20T15:02:25.482Z : {"message":"[object Object]","error":"Not in JSON format","offset":37,"topic":"main","partition":0}
+2022-09-20T15:02:25.509Z : {"message":"[object Object]","error":"Repition of messages","offset":38,"topic":"main","partition":0}
+2022-09-20T15:02:25.511Z : {"message":"[object Object]","error":"Not in JSON format","offset":38,"topic":"main","partition":0}
+2022-09-20T15:02:25.526Z : {"message":"[object Object]","error":"Repition of messages","offset":39,"topic":"main","partition":0}
+2022-09-20T15:02:25.528Z : {"message":"[object Object]","error":"Not in JSON format","offset":39,"topic":"main","partition":0}
+2022-09-20T15:02:25.539Z : {"message":"[object Object]","error":"Repition of messages","offset":40,"topic":"main","partition":0}
+2022-09-20T15:02:25.541Z : {"message":"[object Object]","error":"Not in JSON format","offset":40,"topic":"main","partition":0}
+2022-09-20T15:02:25.551Z : {"message":"[object Object]","error":"Repition of messages","offset":41,"topic":"main","partition":0}
+2022-09-20T15:02:25.555Z : {"message":"[object Object]","error":"Not in JSON format","offset":41,"topic":"main","partition":0}
+2022-09-20T15:02:25.715Z : {"message":"[object Object]","error":"Repition of messages","offset":42,"topic":"main","partition":0}
+2022-09-20T15:02:25.717Z : {"message":"[object Object]","error":"Not in JSON format","offset":42,"topic":"main","partition":0}
+2022-09-20T15:02:25.730Z : {"message":"[object Object]","error":"Repition of messages","offset":43,"topic":"main","partition":0}
+2022-09-20T15:02:25.755Z : {"message":"[object Object]","error":"Not in JSON format","offset":43,"topic":"main","partition":0}
+2022-09-20T15:02:25.809Z : {"message":"[object Object]","error":"Repition of messages","offset":44,"topic":"main","partition":0}
+2022-09-20T15:02:25.821Z : {"message":"[object Object]","error":"Not in JSON format","offset":44,"topic":"main","partition":0}
+2022-09-20T15:02:25.876Z : {"message":"[object Object]","error":"Repition of messages","offset":45,"topic":"main","partition":0}
+2022-09-20T15:02:25.899Z : {"message":"[object Object]","error":"Not in JSON format","offset":45,"topic":"main","partition":0}
+2022-09-20T15:02:25.915Z : {"message":"[object Object]","error":"Repition of messages","offset":46,"topic":"main","partition":0}
+2022-09-20T15:02:25.916Z : {"message":"[object Object]","error":"Not in JSON format","offset":46,"topic":"main","partition":0}
+2022-09-20T15:02:25.923Z : {"message":"[object Object]","error":"Repition of messages","offset":47,"topic":"main","partition":0}
+2022-09-20T15:02:25.924Z : {"message":"[object Object]","error":"Not in JSON format","offset":47,"topic":"main","partition":0}
+2022-09-20T15:02:25.928Z : {"message":"[object Object]","error":"Repition of messages","offset":48,"topic":"main","partition":0}
+2022-09-20T15:02:25.929Z : {"message":"[object Object]","error":"Not in JSON format","offset":48,"topic":"main","partition":0}
+2022-09-20T15:02:25.932Z : {"message":"[object Object]","error":"Repition of messages","offset":49,"topic":"main","partition":0}
+2022-09-20T15:02:25.933Z : {"message":"[object Object]","error":"Not in JSON format","offset":49,"topic":"main","partition":0}
+2022-09-20T15:02:25.937Z : {"message":"[object Object]","error":"Repition of messages","offset":50,"topic":"main","partition":0}
+2022-09-20T15:02:25.938Z : {"message":"[object Object]","error":"Not in JSON format","offset":50,"topic":"main","partition":0}
+2022-09-20T15:02:25.942Z : {"message":"[object Object]","error":"Repition of messages","offset":51,"topic":"main","partition":0}
+2022-09-20T15:02:25.943Z : {"message":"[object Object]","error":"Not in JSON format","offset":51,"topic":"main","partition":0}
+2022-09-20T15:02:25.979Z : {"message":"[object Object]","error":"Repition of messages","offset":52,"topic":"main","partition":0}
+2022-09-20T15:02:25.984Z : {"message":"[object Object]","error":"Not in JSON format","offset":52,"topic":"main","partition":0}
+2022-09-20T15:02:25.989Z : {"message":"[object Object]","error":"Repition of messages","offset":53,"topic":"main","partition":0}
+2022-09-20T15:02:25.990Z : {"message":"[object Object]","error":"Not in JSON format","offset":53,"topic":"main","partition":0}
+2022-09-20T15:02:25.994Z : {"message":"[object Object]","error":"Repition of messages","offset":54,"topic":"main","partition":0}
+2022-09-20T15:02:25.995Z : {"message":"[object Object]","error":"Not in JSON format","offset":54,"topic":"main","partition":0}
+2022-09-20T15:02:25.999Z : {"message":"[object Object]","error":"Repition of messages","offset":55,"topic":"main","partition":0}
+2022-09-20T15:02:26.006Z : {"message":"[object Object]","error":"Not in JSON format","offset":55,"topic":"main","partition":0}
+2022-09-20T15:02:26.012Z : {"message":"[object Object]","error":"Repition of messages","offset":56,"topic":"main","partition":0}
+2022-09-20T15:02:26.013Z : {"message":"[object Object]","error":"Not in JSON format","offset":56,"topic":"main","partition":0}
+2022-09-20T15:02:26.021Z : {"message":"[object Object]","error":"Repition of messages","offset":57,"topic":"main","partition":0}
+2022-09-20T15:02:26.023Z : {"message":"[object Object]","error":"Not in JSON format","offset":57,"topic":"main","partition":0}
+2022-09-20T15:02:26.032Z : {"message":"[object Object]","error":"Repition of messages","offset":58,"topic":"main","partition":0}
+2022-09-20T15:02:26.033Z : {"message":"[object Object]","error":"Not in JSON format","offset":58,"topic":"main","partition":0}
+2022-09-20T15:02:26.040Z : {"message":"[object Object]","error":"Repition of messages","offset":59,"topic":"main","partition":0}
+2022-09-20T15:02:26.041Z : {"message":"[object Object]","error":"Not in JSON format","offset":59,"topic":"main","partition":0}
+2022-09-20T15:02:26.432Z : {"message":"[object Object]","error":"Repition of messages","offset":60,"topic":"main","partition":0}
+2022-09-20T15:02:26.447Z : {"message":"[object Object]","error":"Not in JSON format","offset":60,"topic":"main","partition":0}
+2022-09-20T15:02:26.454Z : {"message":"[object Object]","error":"Repition of messages","offset":61,"topic":"main","partition":0}
+2022-09-20T15:02:26.456Z : {"message":"[object Object]","error":"Not in JSON format","offset":61,"topic":"main","partition":0}
+2022-09-20T15:02:26.464Z : {"message":"[object Object]","error":"Repition of messages","offset":62,"topic":"main","partition":0}
+2022-09-20T15:02:26.467Z : {"message":"[object Object]","error":"Not in JSON format","offset":62,"topic":"main","partition":0}
+2022-09-20T15:02:26.480Z : {"message":"[object Object]","error":"Repition of messages","offset":63,"topic":"main","partition":0}
+2022-09-20T15:02:26.482Z : {"message":"[object Object]","error":"Not in JSON format","offset":63,"topic":"main","partition":0}
+2022-09-20T15:02:26.498Z : {"message":"[object Object]","error":"Repition of messages","offset":64,"topic":"main","partition":0}
+2022-09-20T15:02:26.510Z : {"message":"[object Object]","error":"Not in JSON format","offset":64,"topic":"main","partition":0}
+2022-09-20T15:02:26.514Z : {"message":"[object Object]","error":"Repition of messages","offset":65,"topic":"main","partition":0}
+2022-09-20T15:02:26.515Z : {"message":"[object Object]","error":"Not in JSON format","offset":65,"topic":"main","partition":0}
+2022-09-20T15:02:26.522Z : {"message":"[object Object]","error":"Repition of messages","offset":66,"topic":"main","partition":0}
+2022-09-20T15:02:26.525Z : {"message":"[object Object]","error":"Not in JSON format","offset":66,"topic":"main","partition":0}
+2022-09-20T15:02:26.532Z : {"message":"[object Object]","error":"Repition of messages","offset":67,"topic":"main","partition":0}
+2022-09-20T15:02:26.534Z : {"message":"[object Object]","error":"Not in JSON format","offset":67,"topic":"main","partition":0}
+2022-09-20T15:02:26.541Z : {"message":"[object Object]","error":"Repition of messages","offset":68,"topic":"main","partition":0}
+2022-09-20T15:02:26.543Z : {"message":"[object Object]","error":"Not in JSON format","offset":68,"topic":"main","partition":0}
+2022-09-20T15:02:26.549Z : {"message":"[object Object]","error":"Repition of messages","offset":69,"topic":"main","partition":0}
+2022-09-20T15:02:26.549Z : {"message":"[object Object]","error":"Not in JSON format","offset":69,"topic":"main","partition":0}
+2022-09-20T15:02:26.557Z : {"message":"[object Object]","error":"Repition of messages","offset":70,"topic":"main","partition":0}
+2022-09-20T15:02:26.559Z : {"message":"[object Object]","error":"Not in JSON format","offset":70,"topic":"main","partition":0}
+2022-09-20T15:02:26.563Z : {"message":"[object Object]","error":"Repition of messages","offset":71,"topic":"main","partition":0}
+2022-09-20T15:02:26.564Z : {"message":"[object Object]","error":"Not in JSON format","offset":71,"topic":"main","partition":0}
+2022-09-20T15:02:26.571Z : {"message":"[object Object]","error":"Repition of messages","offset":72,"topic":"main","partition":0}
+2022-09-20T15:02:26.572Z : {"message":"[object Object]","error":"Not in JSON format","offset":72,"topic":"main","partition":0}
+2022-09-20T15:02:26.577Z : {"message":"[object Object]","error":"Repition of messages","offset":73,"topic":"main","partition":0}
+2022-09-20T15:02:26.578Z : {"message":"[object Object]","error":"Not in JSON format","offset":73,"topic":"main","partition":0}
+2022-09-20T15:02:26.583Z : {"message":"[object Object]","error":"Repition of messages","offset":74,"topic":"main","partition":0}
+2022-09-20T15:02:26.585Z : {"message":"[object Object]","error":"Not in JSON format","offset":74,"topic":"main","partition":0}
+2022-09-20T15:02:26.590Z : {"message":"[object Object]","error":"Repition of messages","offset":75,"topic":"main","partition":0}
+2022-09-20T15:02:26.591Z : {"message":"[object Object]","error":"Not in JSON format","offset":75,"topic":"main","partition":0}
+2022-09-20T15:02:26.597Z : {"message":"[object Object]","error":"Repition of messages","offset":76,"topic":"main","partition":0}
+2022-09-20T15:02:26.598Z : {"message":"[object Object]","error":"Not in JSON format","offset":76,"topic":"main","partition":0}
+2022-09-20T15:02:26.604Z : {"message":"[object Object]","error":"Repition of messages","offset":77,"topic":"main","partition":0}
+2022-09-20T15:02:26.605Z : {"message":"[object Object]","error":"Not in JSON format","offset":77,"topic":"main","partition":0}
+2022-09-20T15:02:26.610Z : {"message":"[object Object]","error":"Repition of messages","offset":78,"topic":"main","partition":0}
+2022-09-20T15:02:26.611Z : {"message":"[object Object]","error":"Not in JSON format","offset":78,"topic":"main","partition":0}
+2022-09-20T15:02:26.616Z : {"message":"[object Object]","error":"Repition of messages","offset":79,"topic":"main","partition":0}
+2022-09-20T15:02:26.618Z : {"message":"[object Object]","error":"Not in JSON format","offset":79,"topic":"main","partition":0}
+2022-09-20T15:02:26.625Z : {"message":"[object Object]","error":"Repition of messages","offset":80,"topic":"main","partition":0}
+2022-09-20T15:02:26.626Z : {"message":"[object Object]","error":"Not in JSON format","offset":80,"topic":"main","partition":0}
+2022-09-20T15:02:26.632Z : {"message":"[object Object]","error":"Repition of messages","offset":81,"topic":"main","partition":0}
+2022-09-20T15:02:26.634Z : {"message":"[object Object]","error":"Not in JSON format","offset":81,"topic":"main","partition":0}
+2022-09-20T15:02:26.640Z : {"message":"[object Object]","error":"Repition of messages","offset":82,"topic":"main","partition":0}
+2022-09-20T15:02:26.641Z : {"message":"[object Object]","error":"Not in JSON format","offset":82,"topic":"main","partition":0}
+2022-09-20T15:02:26.646Z : {"message":"[object Object]","error":"Repition of messages","offset":83,"topic":"main","partition":0}
+2022-09-20T15:02:26.647Z : {"message":"[object Object]","error":"Not in JSON format","offset":83,"topic":"main","partition":0}
+2022-09-20T15:02:26.653Z : {"message":"[object Object]","error":"Repition of messages","offset":84,"topic":"main","partition":0}
+2022-09-20T15:02:26.654Z : {"message":"[object Object]","error":"Not in JSON format","offset":84,"topic":"main","partition":0}
+2022-09-20T15:02:26.658Z : {"message":"[object Object]","error":"Repition of messages","offset":85,"topic":"main","partition":0}
+2022-09-20T15:02:26.663Z : {"message":"[object Object]","error":"Not in JSON format","offset":85,"topic":"main","partition":0}
+2022-09-20T15:02:26.667Z : {"message":"[object Object]","error":"Repition of messages","offset":86,"topic":"main","partition":0}
+2022-09-20T15:02:26.669Z : {"message":"[object Object]","error":"Not in JSON format","offset":86,"topic":"main","partition":0}
+2022-09-20T15:02:26.678Z : {"message":"[object Object]","error":"Repition of messages","offset":87,"topic":"main","partition":0}
+2022-09-20T15:02:26.680Z : {"message":"[object Object]","error":"Not in JSON format","offset":87,"topic":"main","partition":0}
+2022-09-20T15:02:26.685Z : {"message":"[object Object]","error":"Repition of messages","offset":88,"topic":"main","partition":0}
+2022-09-20T15:02:26.689Z : {"message":"[object Object]","error":"Not in JSON format","offset":88,"topic":"main","partition":0}
+2022-09-20T15:02:26.695Z : {"message":"[object Object]","error":"Repition of messages","offset":89,"topic":"main","partition":0}
+2022-09-20T15:02:26.696Z : {"message":"[object Object]","error":"Not in JSON format","offset":89,"topic":"main","partition":0}
+2022-09-20T15:02:26.702Z : {"message":"[object Object]","error":"Repition of messages","offset":90,"topic":"main","partition":0}
+2022-09-20T15:02:26.703Z : {"message":"[object Object]","error":"Not in JSON format","offset":90,"topic":"main","partition":0}
+2022-09-20T15:02:26.708Z : {"message":"[object Object]","error":"Repition of messages","offset":91,"topic":"main","partition":0}
+2022-09-20T15:02:26.709Z : {"message":"[object Object]","error":"Not in JSON format","offset":91,"topic":"main","partition":0}
+2022-09-20T15:02:26.715Z : {"message":"[object Object]","error":"Repition of messages","offset":92,"topic":"main","partition":0}
+2022-09-20T15:02:26.716Z : {"message":"[object Object]","error":"Not in JSON format","offset":92,"topic":"main","partition":0}
+2022-09-20T15:02:26.722Z : {"message":"[object Object]","error":"Repition of messages","offset":93,"topic":"main","partition":0}
+2022-09-20T15:02:26.725Z : {"message":"[object Object]","error":"Not in JSON format","offset":93,"topic":"main","partition":0}
+2022-09-20T15:02:26.734Z : {"message":"[object Object]","error":"Repition of messages","offset":94,"topic":"main","partition":0}
+2022-09-20T15:02:26.737Z : {"message":"[object Object]","error":"Not in JSON format","offset":94,"topic":"main","partition":0}
+2022-09-20T15:02:26.742Z : {"message":"[object Object]","error":"Repition of messages","offset":95,"topic":"main","partition":0}
+2022-09-20T15:02:26.745Z : {"message":"[object Object]","error":"Not in JSON format","offset":95,"topic":"main","partition":0}
+2022-09-20T15:02:27.255Z : {"message":"[object Object]","error":"Repition of messages","offset":96,"topic":"main","partition":0}
+2022-09-20T15:02:27.257Z : {"message":"[object Object]","error":"Not in JSON format","offset":96,"topic":"main","partition":0}
+2022-09-20T15:02:27.280Z : {"message":"[object Object]","error":"Repition of messages","offset":97,"topic":"main","partition":0}
+2022-09-20T15:02:27.286Z : {"message":"[object Object]","error":"Not in JSON format","offset":97,"topic":"main","partition":0}
+2022-09-20T15:02:27.297Z : {"message":"[object Object]","error":"Repition of messages","offset":98,"topic":"main","partition":0}
+2022-09-20T15:02:27.300Z : {"message":"[object Object]","error":"Not in JSON format","offset":98,"topic":"main","partition":0}
+2022-09-20T15:02:27.310Z : {"message":"[object Object]","error":"Repition of messages","offset":99,"topic":"main","partition":0}
+2022-09-20T15:02:27.312Z : {"message":"[object Object]","error":"Not in JSON format","offset":99,"topic":"main","partition":0}
+2022-09-20T15:02:27.321Z : {"message":"[object Object]","error":"Repition of messages","offset":100,"topic":"main","partition":0}
+2022-09-20T15:02:27.323Z : {"message":"[object Object]","error":"Not in JSON format","offset":100,"topic":"main","partition":0}
+2022-09-20T15:02:27.330Z : {"message":"[object Object]","error":"Repition of messages","offset":101,"topic":"main","partition":0}
+2022-09-20T15:02:27.332Z : {"message":"[object Object]","error":"Not in JSON format","offset":101,"topic":"main","partition":0}
+2022-09-20T15:02:27.337Z : {"message":"[object Object]","error":"Repition of messages","offset":102,"topic":"main","partition":0}
+2022-09-20T15:02:27.338Z : {"message":"[object Object]","error":"Not in JSON format","offset":102,"topic":"main","partition":0}
+2022-09-20T15:02:27.345Z : {"message":"[object Object]","error":"Repition of messages","offset":103,"topic":"main","partition":0}
+2022-09-20T15:02:27.347Z : {"message":"[object Object]","error":"Not in JSON format","offset":103,"topic":"main","partition":0}
+2022-09-20T15:02:27.353Z : {"message":"[object Object]","error":"Repition of messages","offset":104,"topic":"main","partition":0}
+2022-09-20T15:02:27.354Z : {"message":"[object Object]","error":"Not in JSON format","offset":104,"topic":"main","partition":0}
+2022-09-20T15:02:27.363Z : {"message":"[object Object]","error":"Repition of messages","offset":105,"topic":"main","partition":0}
+2022-09-20T15:02:27.364Z : {"message":"[object Object]","error":"Not in JSON format","offset":105,"topic":"main","partition":0}
+2022-09-20T15:02:27.374Z : {"message":"[object Object]","error":"Repition of messages","offset":106,"topic":"main","partition":0}
+2022-09-20T15:02:27.376Z : {"message":"[object Object]","error":"Not in JSON format","offset":106,"topic":"main","partition":0}
+2022-09-20T15:02:27.387Z : {"message":"[object Object]","error":"Repition of messages","offset":107,"topic":"main","partition":0}
+2022-09-20T15:02:27.388Z : {"message":"[object Object]","error":"Not in JSON format","offset":107,"topic":"main","partition":0}
+2022-09-20T15:02:27.395Z : {"message":"[object Object]","error":"Repition of messages","offset":108,"topic":"main","partition":0}
+2022-09-20T15:02:27.397Z : {"message":"[object Object]","error":"Not in JSON format","offset":108,"topic":"main","partition":0}
+2022-09-20T15:02:27.402Z : {"message":"[object Object]","error":"Repition of messages","offset":109,"topic":"main","partition":0}
+2022-09-20T15:02:27.404Z : {"message":"[object Object]","error":"Not in JSON format","offset":109,"topic":"main","partition":0}
+2022-09-20T15:02:27.410Z : {"message":"[object Object]","error":"Repition of messages","offset":110,"topic":"main","partition":0}
+2022-09-20T15:02:27.413Z : {"message":"[object Object]","error":"Not in JSON format","offset":110,"topic":"main","partition":0}
+2022-09-20T15:02:27.421Z : {"message":"[object Object]","error":"Repition of messages","offset":111,"topic":"main","partition":0}
+2022-09-20T15:02:27.422Z : {"message":"[object Object]","error":"Not in JSON format","offset":111,"topic":"main","partition":0}
+2022-09-20T15:02:27.430Z : {"message":"[object Object]","error":"Repition of messages","offset":112,"topic":"main","partition":0}
+2022-09-20T15:02:27.431Z : {"message":"[object Object]","error":"Not in JSON format","offset":112,"topic":"main","partition":0}
+2022-09-20T15:02:27.437Z : {"message":"[object Object]","error":"Repition of messages","offset":113,"topic":"main","partition":0}
+2022-09-20T15:02:27.440Z : {"message":"[object Object]","error":"Not in JSON format","offset":113,"topic":"main","partition":0}
+2022-09-20T15:02:27.445Z : {"message":"[object Object]","error":"Repition of messages","offset":114,"topic":"main","partition":0}
+2022-09-20T15:02:27.447Z : {"message":"[object Object]","error":"Not in JSON format","offset":114,"topic":"main","partition":0}
+2022-09-20T15:02:27.453Z : {"message":"[object Object]","error":"Repition of messages","offset":115,"topic":"main","partition":0}
+2022-09-20T15:02:27.455Z : {"message":"[object Object]","error":"Not in JSON format","offset":115,"topic":"main","partition":0}
+2022-09-20T15:02:27.461Z : {"message":"[object Object]","error":"Repition of messages","offset":116,"topic":"main","partition":0}
+2022-09-20T15:02:27.462Z : {"message":"[object Object]","error":"Not in JSON format","offset":116,"topic":"main","partition":0}
+2022-09-20T15:02:27.468Z : {"message":"[object Object]","error":"Repition of messages","offset":117,"topic":"main","partition":0}
+2022-09-20T15:02:27.470Z : {"message":"[object Object]","error":"Not in JSON format","offset":117,"topic":"main","partition":0}
+2022-09-20T15:02:27.481Z : {"message":"[object Object]","error":"Repition of messages","offset":118,"topic":"main","partition":0}
+2022-09-20T15:02:27.483Z : {"message":"[object Object]","error":"Not in JSON format","offset":118,"topic":"main","partition":0}
+2022-09-20T15:02:27.495Z : {"message":"[object Object]","error":"Repition of messages","offset":119,"topic":"main","partition":0}
+2022-09-20T15:02:27.496Z : {"message":"[object Object]","error":"Not in JSON format","offset":119,"topic":"main","partition":0}
+2022-09-20T15:02:27.512Z : {"message":"[object Object]","error":"Repition of messages","offset":120,"topic":"main","partition":0}
+2022-09-20T15:02:27.513Z : {"message":"[object Object]","error":"Not in JSON format","offset":120,"topic":"main","partition":0}
+2022-09-20T15:02:27.526Z : {"message":"[object Object]","error":"Repition of messages","offset":121,"topic":"main","partition":0}
+2022-09-20T15:02:27.528Z : {"message":"[object Object]","error":"Not in JSON format","offset":121,"topic":"main","partition":0}
+2022-09-20T15:02:27.538Z : {"message":"[object Object]","error":"Repition of messages","offset":122,"topic":"main","partition":0}
+2022-09-20T15:02:27.540Z : {"message":"[object Object]","error":"Not in JSON format","offset":122,"topic":"main","partition":0}
+2022-09-20T15:02:28.096Z : {"message":"[object Object]","error":"Repition of messages","offset":123,"topic":"main","partition":0}
+2022-09-20T15:02:28.103Z : {"message":"[object Object]","error":"Not in JSON format","offset":123,"topic":"main","partition":0}
+2022-09-20T15:02:28.114Z : {"message":"[object Object]","error":"Repition of messages","offset":124,"topic":"main","partition":0}
+2022-09-20T15:02:28.120Z : {"message":"[object Object]","error":"Not in JSON format","offset":124,"topic":"main","partition":0}
+2022-09-20T15:02:28.129Z : {"message":"[object Object]","error":"Repition of messages","offset":125,"topic":"main","partition":0}
+2022-09-20T15:02:28.134Z : {"message":"[object Object]","error":"Not in JSON format","offset":125,"topic":"main","partition":0}
+2022-09-20T15:02:28.150Z : {"message":"[object Object]","error":"Repition of messages","offset":126,"topic":"main","partition":0}
+2022-09-20T15:02:28.153Z : {"message":"[object Object]","error":"Not in JSON format","offset":126,"topic":"main","partition":0}
+2022-09-20T15:02:28.161Z : {"message":"[object Object]","error":"Repition of messages","offset":127,"topic":"main","partition":0}
+2022-09-20T15:02:28.165Z : {"message":"[object Object]","error":"Not in JSON format","offset":127,"topic":"main","partition":0}
+2022-09-20T15:02:28.182Z : {"message":"[object Object]","error":"Repition of messages","offset":128,"topic":"main","partition":0}
+2022-09-20T15:02:28.189Z : {"message":"[object Object]","error":"Not in JSON format","offset":128,"topic":"main","partition":0}
+2022-09-20T15:02:28.199Z : {"message":"[object Object]","error":"Repition of messages","offset":129,"topic":"main","partition":0}
+2022-09-20T15:02:28.205Z : {"message":"[object Object]","error":"Not in JSON format","offset":129,"topic":"main","partition":0}
+2022-09-20T15:02:28.213Z : {"message":"[object Object]","error":"Repition of messages","offset":130,"topic":"main","partition":0}
+2022-09-20T15:02:28.215Z : {"message":"[object Object]","error":"Not in JSON format","offset":130,"topic":"main","partition":0}
+2022-09-20T15:02:28.222Z : {"message":"[object Object]","error":"Repition of messages","offset":131,"topic":"main","partition":0}
+2022-09-20T15:02:28.224Z : {"message":"[object Object]","error":"Not in JSON format","offset":131,"topic":"main","partition":0}
+2022-09-20T15:02:28.229Z : {"message":"[object Object]","error":"Repition of messages","offset":132,"topic":"main","partition":0}
+2022-09-20T15:02:28.232Z : {"message":"[object Object]","error":"Not in JSON format","offset":132,"topic":"main","partition":0}
+2022-09-20T15:02:28.238Z : {"message":"[object Object]","error":"Repition of messages","offset":133,"topic":"main","partition":0}
+2022-09-20T15:02:28.241Z : {"message":"[object Object]","error":"Not in JSON format","offset":133,"topic":"main","partition":0}
+2022-09-20T15:02:28.246Z : {"message":"[object Object]","error":"Repition of messages","offset":134,"topic":"main","partition":0}
+2022-09-20T15:02:28.247Z : {"message":"[object Object]","error":"Not in JSON format","offset":134,"topic":"main","partition":0}
+2022-09-20T15:02:28.256Z : {"message":"[object Object]","error":"Repition of messages","offset":135,"topic":"main","partition":0}
+2022-09-20T15:02:28.257Z : {"message":"[object Object]","error":"Not in JSON format","offset":135,"topic":"main","partition":0}
+2022-09-20T15:02:28.263Z : {"message":"[object Object]","error":"Repition of messages","offset":136,"topic":"main","partition":0}
+2022-09-20T15:02:28.264Z : {"message":"[object Object]","error":"Not in JSON format","offset":136,"topic":"main","partition":0}
+2022-09-20T15:02:28.272Z : {"message":"[object Object]","error":"Repition of messages","offset":137,"topic":"main","partition":0}
+2022-09-20T15:02:28.273Z : {"message":"[object Object]","error":"Not in JSON format","offset":137,"topic":"main","partition":0}
+2022-09-20T15:02:28.280Z : {"message":"[object Object]","error":"Repition of messages","offset":138,"topic":"main","partition":0}
+2022-09-20T15:02:28.281Z : {"message":"[object Object]","error":"Not in JSON format","offset":138,"topic":"main","partition":0}
+2022-09-20T15:02:28.287Z : {"message":"[object Object]","error":"Repition of messages","offset":139,"topic":"main","partition":0}
+2022-09-20T15:02:28.289Z : {"message":"[object Object]","error":"Not in JSON format","offset":139,"topic":"main","partition":0}
+2022-09-20T15:02:28.297Z : {"message":"[object Object]","error":"Repition of messages","offset":140,"topic":"main","partition":0}
+2022-09-20T15:02:28.300Z : {"message":"[object Object]","error":"Not in JSON format","offset":140,"topic":"main","partition":0}
+2022-09-20T15:02:28.313Z : {"message":"[object Object]","error":"Repition of messages","offset":141,"topic":"main","partition":0}
+2022-09-20T15:02:28.323Z : {"message":"[object Object]","error":"Not in JSON format","offset":141,"topic":"main","partition":0}
+2022-09-20T15:02:28.332Z : {"message":"[object Object]","error":"Repition of messages","offset":142,"topic":"main","partition":0}
+2022-09-20T15:02:28.333Z : {"message":"[object Object]","error":"Not in JSON format","offset":142,"topic":"main","partition":0}
+2022-09-20T15:02:28.341Z : {"message":"[object Object]","error":"Repition of messages","offset":143,"topic":"main","partition":0}
+2022-09-20T15:02:28.342Z : {"message":"[object Object]","error":"Not in JSON format","offset":143,"topic":"main","partition":0}
+2022-09-20T15:02:28.348Z : {"message":"[object Object]","error":"Repition of messages","offset":144,"topic":"main","partition":0}
+2022-09-20T15:02:28.349Z : {"message":"[object Object]","error":"Not in JSON format","offset":144,"topic":"main","partition":0}
+2022-09-20T15:02:28.354Z : {"message":"[object Object]","error":"Repition of messages","offset":145,"topic":"main","partition":0}
+2022-09-20T15:02:28.355Z : {"message":"[object Object]","error":"Not in JSON format","offset":145,"topic":"main","partition":0}
+2022-09-20T15:02:28.402Z : {"message":"[object Object]","error":"Repition of messages","offset":146,"topic":"main","partition":0}
+2022-09-20T15:02:28.404Z : {"message":"[object Object]","error":"Not in JSON format","offset":146,"topic":"main","partition":0}
+2022-09-20T15:02:28.439Z : {"message":"[object Object]","error":"Repition of messages","offset":147,"topic":"main","partition":0}
+2022-09-20T15:02:28.441Z : {"message":"[object Object]","error":"Not in JSON format","offset":147,"topic":"main","partition":0}
+2022-09-20T15:02:28.448Z : {"message":"[object Object]","error":"Repition of messages","offset":148,"topic":"main","partition":0}
+2022-09-20T15:02:28.449Z : {"message":"[object Object]","error":"Not in JSON format","offset":148,"topic":"main","partition":0}
+2022-09-20T15:02:28.459Z : {"message":"[object Object]","error":"Repition of messages","offset":149,"topic":"main","partition":0}
+2022-09-20T15:02:28.461Z : {"message":"[object Object]","error":"Not in JSON format","offset":149,"topic":"main","partition":0}
+2022-09-20T15:02:28.468Z : {"message":"[object Object]","error":"Repition of messages","offset":150,"topic":"main","partition":0}
+2022-09-20T15:02:28.470Z : {"message":"[object Object]","error":"Not in JSON format","offset":150,"topic":"main","partition":0}
+2022-09-20T15:02:28.477Z : {"message":"[object Object]","error":"Repition of messages","offset":151,"topic":"main","partition":0}
+2022-09-20T15:02:28.478Z : {"message":"[object Object]","error":"Not in JSON format","offset":151,"topic":"main","partition":0}
+2022-09-20T15:02:28.486Z : {"message":"[object Object]","error":"Repition of messages","offset":152,"topic":"main","partition":0}
+2022-09-20T15:02:28.488Z : {"message":"[object Object]","error":"Not in JSON format","offset":152,"topic":"main","partition":0}
+2022-09-20T15:02:28.496Z : {"message":"[object Object]","error":"Repition of messages","offset":153,"topic":"main","partition":0}
+2022-09-20T15:02:28.497Z : {"message":"[object Object]","error":"Not in JSON format","offset":153,"topic":"main","partition":0}
+2022-09-20T15:02:28.504Z : {"message":"[object Object]","error":"Repition of messages","offset":154,"topic":"main","partition":0}
+2022-09-20T15:02:28.506Z : {"message":"[object Object]","error":"Not in JSON format","offset":154,"topic":"main","partition":0}
+2022-09-20T15:02:28.510Z : {"message":"[object Object]","error":"Repition of messages","offset":155,"topic":"main","partition":0}
+2022-09-20T15:02:28.511Z : {"message":"[object Object]","error":"Not in JSON format","offset":155,"topic":"main","partition":0}
+2022-09-20T15:02:28.516Z : {"message":"[object Object]","error":"Repition of messages","offset":156,"topic":"main","partition":0}
+2022-09-20T15:02:28.519Z : {"message":"[object Object]","error":"Not in JSON format","offset":156,"topic":"main","partition":0}
+2022-09-20T15:02:28.524Z : {"message":"[object Object]","error":"Repition of messages","offset":157,"topic":"main","partition":0}
+2022-09-20T15:02:28.525Z : {"message":"[object Object]","error":"Not in JSON format","offset":157,"topic":"main","partition":0}
+2022-09-20T15:02:28.530Z : {"message":"[object Object]","error":"Repition of messages","offset":158,"topic":"main","partition":0}
+2022-09-20T15:02:28.531Z : {"message":"[object Object]","error":"Not in JSON format","offset":158,"topic":"main","partition":0}
+2022-09-20T15:02:28.537Z : {"message":"[object Object]","error":"Repition of messages","offset":159,"topic":"main","partition":0}
+2022-09-20T15:02:28.539Z : {"message":"[object Object]","error":"Not in JSON format","offset":159,"topic":"main","partition":0}
+2022-09-20T15:02:28.543Z : {"message":"[object Object]","error":"Repition of messages","offset":160,"topic":"main","partition":0}
+2022-09-20T15:02:28.544Z : {"message":"[object Object]","error":"Not in JSON format","offset":160,"topic":"main","partition":0}
+2022-09-20T15:02:28.549Z : {"message":"[object Object]","error":"Repition of messages","offset":161,"topic":"main","partition":0}
+2022-09-20T15:02:28.551Z : {"message":"[object Object]","error":"Not in JSON format","offset":161,"topic":"main","partition":0}
+2022-09-20T15:02:28.556Z : {"message":"[object Object]","error":"Repition of messages","offset":162,"topic":"main","partition":0}
+2022-09-20T15:02:28.557Z : {"message":"[object Object]","error":"Not in JSON format","offset":162,"topic":"main","partition":0}
+2022-09-20T15:02:28.562Z : {"message":"[object Object]","error":"Repition of messages","offset":163,"topic":"main","partition":0}
+2022-09-20T15:02:28.563Z : {"message":"[object Object]","error":"Not in JSON format","offset":163,"topic":"main","partition":0}
+2022-09-20T15:02:28.569Z : {"message":"[object Object]","error":"Repition of messages","offset":164,"topic":"main","partition":0}
+2022-09-20T15:02:28.573Z : {"message":"[object Object]","error":"Not in JSON format","offset":164,"topic":"main","partition":0}
+2022-09-20T15:02:28.578Z : {"message":"[object Object]","error":"Repition of messages","offset":165,"topic":"main","partition":0}
+2022-09-20T15:02:28.579Z : {"message":"[object Object]","error":"Not in JSON format","offset":165,"topic":"main","partition":0}
+2022-09-20T15:02:28.587Z : {"message":"[object Object]","error":"Repition of messages","offset":166,"topic":"main","partition":0}
+2022-09-20T15:02:28.588Z : {"message":"[object Object]","error":"Not in JSON format","offset":166,"topic":"main","partition":0}
+2022-09-20T15:02:28.597Z : {"message":"[object Object]","error":"Repition of messages","offset":167,"topic":"main","partition":0}
+2022-09-20T15:02:28.598Z : {"message":"[object Object]","error":"Not in JSON format","offset":167,"topic":"main","partition":0}
+2022-09-20T15:02:28.605Z : {"message":"[object Object]","error":"Repition of messages","offset":168,"topic":"main","partition":0}
+2022-09-20T15:02:28.610Z : {"message":"[object Object]","error":"Not in JSON format","offset":168,"topic":"main","partition":0}
+2022-09-20T15:02:28.614Z : {"message":"[object Object]","error":"Repition of messages","offset":169,"topic":"main","partition":0}
+2022-09-20T15:02:28.615Z : {"message":"[object Object]","error":"Not in JSON format","offset":169,"topic":"main","partition":0}
+2022-09-20T15:02:28.621Z : {"message":"[object Object]","error":"Repition of messages","offset":170,"topic":"main","partition":0}
+2022-09-20T15:02:28.623Z : {"message":"[object Object]","error":"Not in JSON format","offset":170,"topic":"main","partition":0}
+2022-09-20T15:02:28.627Z : {"message":"[object Object]","error":"Repition of messages","offset":171,"topic":"main","partition":0}
+2022-09-20T15:02:28.631Z : {"message":"[object Object]","error":"Not in JSON format","offset":171,"topic":"main","partition":0}
+2022-09-20T15:02:28.637Z : {"message":"[object Object]","error":"Repition of messages","offset":172,"topic":"main","partition":0}
+2022-09-20T15:02:28.638Z : {"message":"[object Object]","error":"Not in JSON format","offset":172,"topic":"main","partition":0}
+2022-09-20T15:02:28.644Z : {"message":"[object Object]","error":"Repition of messages","offset":173,"topic":"main","partition":0}
+2022-09-20T15:02:28.645Z : {"message":"[object Object]","error":"Not in JSON format","offset":173,"topic":"main","partition":0}
+2022-09-20T15:02:28.651Z : {"message":"[object Object]","error":"Repition of messages","offset":174,"topic":"main","partition":0}
+2022-09-20T15:02:28.652Z : {"message":"[object Object]","error":"Not in JSON format","offset":174,"topic":"main","partition":0}
+2022-09-20T15:02:28.694Z : {"message":"[object Object]","error":"Repition of messages","offset":175,"topic":"main","partition":0}
+2022-09-20T15:02:28.714Z : {"message":"[object Object]","error":"Not in JSON format","offset":175,"topic":"main","partition":0}
+2022-09-20T15:02:28.759Z : {"message":"[object Object]","error":"Repition of messages","offset":176,"topic":"main","partition":0}
+2022-09-20T15:02:28.761Z : {"message":"[object Object]","error":"Not in JSON format","offset":176,"topic":"main","partition":0}
+2022-09-20T15:02:28.765Z : {"message":"[object Object]","error":"Repition of messages","offset":177,"topic":"main","partition":0}
+2022-09-20T15:02:28.775Z : {"message":"[object Object]","error":"Not in JSON format","offset":177,"topic":"main","partition":0}
+2022-09-20T15:02:28.800Z : {"message":"[object Object]","error":"Repition of messages","offset":178,"topic":"main","partition":0}
+2022-09-20T15:02:28.803Z : {"message":"[object Object]","error":"Not in JSON format","offset":178,"topic":"main","partition":0}
+2022-09-20T15:02:28.808Z : {"message":"[object Object]","error":"Repition of messages","offset":179,"topic":"main","partition":0}
+2022-09-20T15:02:28.809Z : {"message":"[object Object]","error":"Not in JSON format","offset":179,"topic":"main","partition":0}
+2022-09-20T15:02:29.318Z : {"message":"[object Object]","error":"Repition of messages","offset":180,"topic":"main","partition":0}
+2022-09-20T15:02:29.320Z : {"message":"[object Object]","error":"Not in JSON format","offset":180,"topic":"main","partition":0}
+2022-09-20T15:02:29.332Z : {"message":"[object Object]","error":"Repition of messages","offset":181,"topic":"main","partition":0}
+2022-09-20T15:02:29.334Z : {"message":"[object Object]","error":"Not in JSON format","offset":181,"topic":"main","partition":0}
+2022-09-20T15:02:29.341Z : {"message":"[object Object]","error":"Repition of messages","offset":182,"topic":"main","partition":0}
+2022-09-20T15:02:29.342Z : {"message":"[object Object]","error":"Not in JSON format","offset":182,"topic":"main","partition":0}
+2022-09-20T15:02:29.350Z : {"message":"[object Object]","error":"Repition of messages","offset":183,"topic":"main","partition":0}
+2022-09-20T15:02:29.353Z : {"message":"[object Object]","error":"Not in JSON format","offset":183,"topic":"main","partition":0}
+2022-09-20T15:02:29.368Z : {"message":"[object Object]","error":"Repition of messages","offset":184,"topic":"main","partition":0}
+2022-09-20T15:02:29.369Z : {"message":"[object Object]","error":"Not in JSON format","offset":184,"topic":"main","partition":0}
+2022-09-20T15:02:29.377Z : {"message":"[object Object]","error":"Repition of messages","offset":185,"topic":"main","partition":0}
+2022-09-20T15:02:29.381Z : {"message":"[object Object]","error":"Not in JSON format","offset":185,"topic":"main","partition":0}
+2022-09-20T15:02:29.398Z : {"message":"[object Object]","error":"Repition of messages","offset":186,"topic":"main","partition":0}
+2022-09-20T15:02:29.402Z : {"message":"[object Object]","error":"Not in JSON format","offset":186,"topic":"main","partition":0}
+2022-09-20T15:02:29.414Z : {"message":"[object Object]","error":"Repition of messages","offset":187,"topic":"main","partition":0}
+2022-09-20T15:02:29.439Z : {"message":"[object Object]","error":"Not in JSON format","offset":187,"topic":"main","partition":0}
+2022-09-20T15:02:29.519Z : {"message":"[object Object]","error":"Repition of messages","offset":188,"topic":"main","partition":0}
+2022-09-20T15:02:29.559Z : {"message":"[object Object]","error":"Not in JSON format","offset":188,"topic":"main","partition":0}
+2022-09-20T15:02:29.613Z : {"message":"[object Object]","error":"Repition of messages","offset":189,"topic":"main","partition":0}
+2022-09-20T15:02:29.615Z : {"message":"[object Object]","error":"Not in JSON format","offset":189,"topic":"main","partition":0}
+2022-09-20T15:02:29.627Z : {"message":"[object Object]","error":"Repition of messages","offset":190,"topic":"main","partition":0}
+2022-09-20T15:02:29.630Z : {"message":"[object Object]","error":"Not in JSON format","offset":190,"topic":"main","partition":0}
+2022-09-20T15:02:29.670Z : {"message":"[object Object]","error":"Repition of messages","offset":191,"topic":"main","partition":0}
+2022-09-20T15:02:29.673Z : {"message":"[object Object]","error":"Not in JSON format","offset":191,"topic":"main","partition":0}
+2022-09-20T15:02:29.696Z : {"message":"[object Object]","error":"Repition of messages","offset":192,"topic":"main","partition":0}
+2022-09-20T15:02:29.700Z : {"message":"[object Object]","error":"Not in JSON format","offset":192,"topic":"main","partition":0}
+2022-09-20T15:02:29.708Z : {"message":"[object Object]","error":"Repition of messages","offset":193,"topic":"main","partition":0}
+2022-09-20T15:02:29.709Z : {"message":"[object Object]","error":"Not in JSON format","offset":193,"topic":"main","partition":0}
+2022-09-20T15:02:29.727Z : {"message":"[object Object]","error":"Repition of messages","offset":194,"topic":"main","partition":0}
+2022-09-20T15:02:29.746Z : {"message":"[object Object]","error":"Not in JSON format","offset":194,"topic":"main","partition":0}
+2022-09-20T15:02:29.760Z : {"message":"[object Object]","error":"Repition of messages","offset":195,"topic":"main","partition":0}
+2022-09-20T15:02:29.761Z : {"message":"[object Object]","error":"Not in JSON format","offset":195,"topic":"main","partition":0}
+2022-09-20T15:02:29.771Z : {"message":"[object Object]","error":"Repition of messages","offset":196,"topic":"main","partition":0}
+2022-09-20T15:02:29.774Z : {"message":"[object Object]","error":"Not in JSON format","offset":196,"topic":"main","partition":0}
+2022-09-20T15:02:29.794Z : {"message":"[object Object]","error":"Repition of messages","offset":197,"topic":"main","partition":0}
+2022-09-20T15:02:29.796Z : {"message":"[object Object]","error":"Not in JSON format","offset":197,"topic":"main","partition":0}
+2022-09-20T15:02:29.812Z : {"message":"[object Object]","error":"Repition of messages","offset":198,"topic":"main","partition":0}
+2022-09-20T15:02:29.814Z : {"message":"[object Object]","error":"Not in JSON format","offset":198,"topic":"main","partition":0}
+2022-09-20T15:02:29.820Z : {"message":"[object Object]","error":"Repition of messages","offset":199,"topic":"main","partition":0}
+2022-09-20T15:02:29.824Z : {"message":"[object Object]","error":"Not in JSON format","offset":199,"topic":"main","partition":0}
+2022-09-20T15:02:29.830Z : {"message":"[object Object]","error":"Repition of messages","offset":200,"topic":"main","partition":0}
+2022-09-20T15:02:29.832Z : {"message":"[object Object]","error":"Not in JSON format","offset":200,"topic":"main","partition":0}
+2022-09-20T15:02:29.844Z : {"message":"[object Object]","error":"Repition of messages","offset":201,"topic":"main","partition":0}
+2022-09-20T15:02:29.846Z : {"message":"[object Object]","error":"Not in JSON format","offset":201,"topic":"main","partition":0}
+2022-09-20T15:02:29.852Z : {"message":"[object Object]","error":"Repition of messages","offset":202,"topic":"main","partition":0}
+2022-09-20T15:02:29.855Z : {"message":"[object Object]","error":"Not in JSON format","offset":202,"topic":"main","partition":0}
+2022-09-20T15:02:29.862Z : {"message":"[object Object]","error":"Repition of messages","offset":203,"topic":"main","partition":0}
+2022-09-20T15:02:29.864Z : {"message":"[object Object]","error":"Not in JSON format","offset":203,"topic":"main","partition":0}
+2022-09-20T15:02:29.875Z : {"message":"[object Object]","error":"Repition of messages","offset":204,"topic":"main","partition":0}
+2022-09-20T15:02:29.878Z : {"message":"[object Object]","error":"Not in JSON format","offset":204,"topic":"main","partition":0}
+2022-09-20T15:02:29.885Z : {"message":"[object Object]","error":"Repition of messages","offset":205,"topic":"main","partition":0}
+2022-09-20T15:02:29.887Z : {"message":"[object Object]","error":"Not in JSON format","offset":205,"topic":"main","partition":0}
+2022-09-20T15:02:29.896Z : {"message":"[object Object]","error":"Repition of messages","offset":206,"topic":"main","partition":0}
+2022-09-20T15:02:29.898Z : {"message":"[object Object]","error":"Not in JSON format","offset":206,"topic":"main","partition":0}
+2022-09-20T15:02:29.905Z : {"message":"[object Object]","error":"Repition of messages","offset":207,"topic":"main","partition":0}
+2022-09-20T15:02:29.906Z : {"message":"[object Object]","error":"Not in JSON format","offset":207,"topic":"main","partition":0}
+2022-09-20T15:02:29.917Z : {"message":"[object Object]","error":"Repition of messages","offset":208,"topic":"main","partition":0}
+2022-09-20T15:02:29.922Z : {"message":"[object Object]","error":"Not in JSON format","offset":208,"topic":"main","partition":0}
+2022-09-20T15:02:29.932Z : {"message":"[object Object]","error":"Repition of messages","offset":209,"topic":"main","partition":0}
+2022-09-20T15:02:29.936Z : {"message":"[object Object]","error":"Not in JSON format","offset":209,"topic":"main","partition":0}
+2022-09-20T15:02:29.945Z : {"message":"[object Object]","error":"Repition of messages","offset":210,"topic":"main","partition":0}
+2022-09-20T15:02:29.946Z : {"message":"[object Object]","error":"Not in JSON format","offset":210,"topic":"main","partition":0}
+2022-09-20T15:02:29.953Z : {"message":"[object Object]","error":"Repition of messages","offset":211,"topic":"main","partition":0}
+2022-09-20T15:02:29.955Z : {"message":"[object Object]","error":"Not in JSON format","offset":211,"topic":"main","partition":0}
+2022-09-20T15:02:29.963Z : {"message":"[object Object]","error":"Repition of messages","offset":212,"topic":"main","partition":0}
+2022-09-20T15:02:29.965Z : {"message":"[object Object]","error":"Not in JSON format","offset":212,"topic":"main","partition":0}
+2022-09-20T15:02:29.971Z : {"message":"[object Object]","error":"Repition of messages","offset":213,"topic":"main","partition":0}
+2022-09-20T15:02:29.973Z : {"message":"[object Object]","error":"Not in JSON format","offset":213,"topic":"main","partition":0}
+2022-09-20T15:02:29.977Z : {"message":"[object Object]","error":"Repition of messages","offset":214,"topic":"main","partition":0}
+2022-09-20T15:02:29.980Z : {"message":"[object Object]","error":"Not in JSON format","offset":214,"topic":"main","partition":0}
+2022-09-20T15:02:29.988Z : {"message":"[object Object]","error":"Repition of messages","offset":215,"topic":"main","partition":0}
+2022-09-20T15:02:29.991Z : {"message":"[object Object]","error":"Not in JSON format","offset":215,"topic":"main","partition":0}
+2022-09-20T15:02:29.997Z : {"message":"[object Object]","error":"Repition of messages","offset":216,"topic":"main","partition":0}
+2022-09-20T15:02:30.002Z : {"message":"[object Object]","error":"Not in JSON format","offset":216,"topic":"main","partition":0}
+2022-09-20T15:02:30.011Z : {"message":"[object Object]","error":"Repition of messages","offset":217,"topic":"main","partition":0}
+2022-09-20T15:02:30.014Z : {"message":"[object Object]","error":"Not in JSON format","offset":217,"topic":"main","partition":0}
+2022-09-20T15:02:30.027Z : {"message":"[object Object]","error":"Repition of messages","offset":218,"topic":"main","partition":0}
+2022-09-20T15:02:30.029Z : {"message":"[object Object]","error":"Not in JSON format","offset":218,"topic":"main","partition":0}
+2022-09-20T15:02:30.037Z : {"message":"[object Object]","error":"Repition of messages","offset":219,"topic":"main","partition":0}
+2022-09-20T15:02:30.038Z : {"message":"[object Object]","error":"Not in JSON format","offset":219,"topic":"main","partition":0}
+2022-09-20T15:02:30.045Z : {"message":"[object Object]","error":"Repition of messages","offset":220,"topic":"main","partition":0}
+2022-09-20T15:02:30.046Z : {"message":"[object Object]","error":"Not in JSON format","offset":220,"topic":"main","partition":0}
+2022-09-20T15:02:30.056Z : {"message":"[object Object]","error":"Repition of messages","offset":221,"topic":"main","partition":0}
+2022-09-20T15:02:30.059Z : {"message":"[object Object]","error":"Not in JSON format","offset":221,"topic":"main","partition":0}
+2022-09-20T15:02:30.065Z : {"message":"[object Object]","error":"Repition of messages","offset":222,"topic":"main","partition":0}
+2022-09-20T15:02:30.069Z : {"message":"[object Object]","error":"Not in JSON format","offset":222,"topic":"main","partition":0}
+2022-09-20T15:02:30.074Z : {"message":"[object Object]","error":"Repition of messages","offset":223,"topic":"main","partition":0}
+2022-09-20T15:02:30.077Z : {"message":"[object Object]","error":"Not in JSON format","offset":223,"topic":"main","partition":0}
+2022-09-20T15:02:30.083Z : {"message":"[object Object]","error":"Repition of messages","offset":224,"topic":"main","partition":0}
+2022-09-20T15:02:30.086Z : {"message":"[object Object]","error":"Not in JSON format","offset":224,"topic":"main","partition":0}
+2022-09-20T15:02:30.092Z : {"message":"[object Object]","error":"Repition of messages","offset":225,"topic":"main","partition":0}
+2022-09-20T15:02:30.093Z : {"message":"[object Object]","error":"Not in JSON format","offset":225,"topic":"main","partition":0}
+2022-09-20T15:02:30.100Z : {"message":"[object Object]","error":"Repition of messages","offset":226,"topic":"main","partition":0}
+2022-09-20T15:02:30.101Z : {"message":"[object Object]","error":"Not in JSON format","offset":226,"topic":"main","partition":0}
+2022-09-20T15:02:30.108Z : {"message":"[object Object]","error":"Repition of messages","offset":227,"topic":"main","partition":0}
+2022-09-20T15:02:30.111Z : {"message":"[object Object]","error":"Not in JSON format","offset":227,"topic":"main","partition":0}
+2022-09-20T15:02:30.122Z : {"message":"[object Object]","error":"Repition of messages","offset":228,"topic":"main","partition":0}
+2022-09-20T15:02:30.126Z : {"message":"[object Object]","error":"Not in JSON format","offset":228,"topic":"main","partition":0}
+2022-09-20T15:02:30.134Z : {"message":"[object Object]","error":"Repition of messages","offset":229,"topic":"main","partition":0}
+2022-09-20T15:02:30.136Z : {"message":"[object Object]","error":"Not in JSON format","offset":229,"topic":"main","partition":0}
+2022-09-20T15:02:30.141Z : {"message":"[object Object]","error":"Repition of messages","offset":230,"topic":"main","partition":0}
+2022-09-20T15:02:30.142Z : {"message":"[object Object]","error":"Not in JSON format","offset":230,"topic":"main","partition":0}
+2022-09-20T15:02:30.148Z : {"message":"[object Object]","error":"Repition of messages","offset":231,"topic":"main","partition":0}
+2022-09-20T15:02:30.151Z : {"message":"[object Object]","error":"Not in JSON format","offset":231,"topic":"main","partition":0}
+2022-09-20T15:02:30.157Z : {"message":"[object Object]","error":"Repition of messages","offset":232,"topic":"main","partition":0}
+2022-09-20T15:02:30.159Z : {"message":"[object Object]","error":"Not in JSON format","offset":232,"topic":"main","partition":0}
+2022-09-20T15:02:30.166Z : {"message":"[object Object]","error":"Repition of messages","offset":233,"topic":"main","partition":0}
+2022-09-20T15:02:30.167Z : {"message":"[object Object]","error":"Not in JSON format","offset":233,"topic":"main","partition":0}
+2022-09-20T15:02:30.172Z : {"message":"[object Object]","error":"Repition of messages","offset":234,"topic":"main","partition":0}
+2022-09-20T15:02:30.174Z : {"message":"[object Object]","error":"Not in JSON format","offset":234,"topic":"main","partition":0}
+2022-09-20T15:02:30.830Z : {"message":"[object Object]","error":"Repition of messages","offset":235,"topic":"main","partition":0}
+2022-09-20T15:03:00.162Z : {"message":"[object Object]","error":"Not in JSON format","offset":123,"topic":"main","partition":0}
+2022-09-20T15:08:10.101Z : {"message":"Hello","error":"Not in JSON format","offset":681,"topic":"main","partition":0}
+2022-09-20T15:08:27.158Z : {"message":"Hello","error":"Not in JSON format","offset":683,"topic":"main","partition":0}
+2022-09-20T15:10:43.933Z : {"message":"Hello","error":"Not in JSON format","offset":685,"topic":"main","partition":0}
+2022-09-20T15:11:01.688Z : {"message":"Hello","error":"Not in JSON format","offset":687,"topic":"main","partition":0}
+2022-09-20T15:11:47.904Z : {"message":"Hello","error":"Not in JSON format","offset":689,"topic":"main","partition":0}
+2022-09-20T15:12:08.459Z : {"message":"Hello","error":"Not in JSON format","offset":691,"topic":"main","partition":0}
+2022-09-20T15:21:10.604Z : {"message":"Request timed out after 30000ms"}
+2022-09-20T15:21:10.618Z : TimeoutError: Request timed out after 30000ms
+2022-09-20T15:22:07.503Z : {"message":"Hello","error":"Not in JSON format","offset":693,"topic":"main","partition":0}
